@@ -7,3 +7,15 @@ a {
 	color: #61dafb;
 	text-decoration: none;
 }
+
+#root {
+	display: flex;
+	flex-direction: column;
+}
+
+.col-full	{
+	max-width: 1600px;
+	padding: 0 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
